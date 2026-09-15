@@ -1,0 +1,5 @@
+name: WBDJourneyMapBridge
+version: 1.0
+main: alphahu.wbdjm.WBDJourneyMapBridge
+api-version: 1.20
+depend: [WarZBombDefuse]
