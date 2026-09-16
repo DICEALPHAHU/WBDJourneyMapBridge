@@ -1,5 +1,9 @@
 # WBDJourneyMapBridge
 
+
+## <font color="red"> 目前已经集成到[WBDAddon](https://github.com/DICEALPHAHU/WBDAddon)，本仓库已废弃！请转移到新的插件仓库喵！</font>
+
+
 将 [WarZBombDefuse](https://www.minebbs.com/resources/folia-warzbombdefuse-cs-t-ct-tacz.17007/) 的队伍同步到原版 Team，配合 JourneyMap Teams 隐藏敌军。
 
 ## 前置要求
